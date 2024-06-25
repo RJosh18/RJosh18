@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ria Joshi</h1>
 <h3 align="center">Tech-Savvy Polymath</h3>
 
-- 🌱 I’m currently learning **Node.js, Express.js & React.js**
+- 🌱 I’m currently bilding projects using **Node.js, Express.js, React.js & Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RJosh18](https://github.com/RJosh18)
 
 - 📫 How to reach me **riajoshi.318@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAF5CpUDQ0g/3DfwkFHKfFrDoAeQoHxIRA/edit?utm_content=DAF5CpUDQ0g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAF5CpUDQ0g/3DfwkFHKfFrDoAeQoHxIRA/edit?utm_content=DAF5CpUDQ0g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences https://www.canva.com/design/DAGBhTPh-Vc/WiQTy3B9y4S-wTbJ3n-a6Q/edit?utm_content=DAGBhTPh-Vc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
